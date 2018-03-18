@@ -1,6 +1,6 @@
 {
   "name": "@joshmoreno/jigsaw",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "tightenco/jigsaw (php package) helper",
   "main": "index.js",
   "bin": {
@@ -11,9 +11,9 @@
   ],
   "author": "Josh Moreno",
   "homepage": "https://github.com/JoshMoreno/node-jigsaw",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/JoshMoreno/node-jigsaw"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoshMoreno/node-jigsaw"
   },
   "bugs": {
     "url": "https://github.com/JoshMoreno/node-jigsaw/issues"
