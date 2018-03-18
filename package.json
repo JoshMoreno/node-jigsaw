@@ -1,0 +1,24 @@
+{
+  "name": "@joshmoreno/jigsaw",
+  "version": "0.1.2",
+  "description": "tightenco/jigsaw (php package) helper",
+  "main": "index.js",
+  "bin": {
+    "jigsaw": "./bin/jigsaw.js"
+  },
+  "keywords": [
+    "jigsaw"
+  ],
+  "author": "Josh Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^2.0.2",
+    "cross-spawn": "^6.0.5",
+    "hasbin": "^1.2.3",
+    "yargs": "^4.6.0"
+  },
+  "peerDependencies": {
+    "browser-sync": "^2.23.6",
+    "browser-sync-webpack-plugin": "2.0.1"
+  }
+}
