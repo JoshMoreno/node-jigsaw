@@ -62,16 +62,16 @@ jigsaw.browserSync(browserSyncOptions = {}, pluginOptions = {});
 // const buildPath = 'build_' + env;
 
 {
-	port: port,
-	server: {
-	    baseDir: buildPath
-	},
-	serveStatic: ['./source'],
-	files: [
-		buildPath + '/**/*.html',
-		'**/*.css',
-		'**/*.js',
-	],
+    port: port,
+    server: {
+        baseDir: buildPath
+    },
+    serveStatic: ['./source'],
+    files: [
+        buildPath + '/**/*.html',
+        '**/*.css',
+        '**/*.js',
+    ],
 } 
 ```
 
@@ -81,8 +81,8 @@ jigsaw.browserSync(browserSyncOptions = {}, pluginOptions = {});
 
 ```js
 {
-	injectCss: true,
-	reload: false,
+    injectCss: true,
+    reload: false,
 }
 ```
 #### Return
