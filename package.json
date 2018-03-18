@@ -10,6 +10,14 @@
     "jigsaw"
   ],
   "author": "Josh Moreno",
+  "homepage": "https://github.com/JoshMoreno/node-jigsaw",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/JoshMoreno/node-jigsaw"
+  },
+  "bugs": {
+    "url": "https://github.com/JoshMoreno/node-jigsaw/issues"
+  },
   "license": "ISC",
   "dependencies": {
     "chokidar": "^2.0.2",
